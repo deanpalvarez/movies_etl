@@ -9,6 +9,7 @@ ratings_small.csv
 keywords.csv
 links.csv
 credits.csv
+config.py
 # C extensions
 *.so
 
