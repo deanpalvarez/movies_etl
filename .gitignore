@@ -10,6 +10,8 @@ keywords.csv
 links.csv
 credits.csv
 config.py
+Movielens Extract.ipynb
+movies_etl.ipynb
 # C extensions
 *.so
 
